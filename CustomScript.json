@@ -1,6 +1,11 @@
 {
     "ip":[
-        
+        {
+            "discord": "Adam S. Lavish#7393",
+            "ss_name": "SS_Giveforitem",
+            "id":"195.96.93.45",
+            "ver":"1.0.0"
+        },
         {
             "ss_name": "SS_Giveforitem",
             "id":"110.169.156.22",
