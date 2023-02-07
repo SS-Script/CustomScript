@@ -1,6 +1,18 @@
 {
     "ip":[
         {
+            "discord": "SS-DEV",
+            "ss_name": "SS_CreateAfk",
+            "id":"110.169.156.90",
+            "ver":"1.0.0"
+        },
+        {
+            "discord": "#9999",
+            "ss_name": "SS_CreateAfk",
+            "id":"110.169.156.90",
+            "ver":"1.0.0"
+        },
+        {
             "discord": "Adam S. Lavish#7393",
             "ss_name": "SS_Giveforitem",
             "id":"191.96.93.45",
