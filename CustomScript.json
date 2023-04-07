@@ -2,9 +2,15 @@
     "ip":[
         
         {
-            "discord": "#8145",
+            "discord": "#8145-1",
             "ss_name": "SS_Deposveh",
             "id":"103.22.182.58",
+            "ver":"1.0.0"
+        },
+        {
+            "discord": "#8145-2",
+            "ss_name": "SS_Deposveh",
+            "id":"45.144.165.181",
             "ver":"1.0.0"
         },
         {
