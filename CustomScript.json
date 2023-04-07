@@ -1,5 +1,14 @@
 {
     "ip":[
+        
+        {
+            "discord": "SS-DEV",
+            "ss_name": "SS_Deposveh",
+            "id":"171.100.91.61",
+            "ver":"1.0.0"
+        },
+        
+        
         {
             "discord": "SS-DEV",
             "ss_name": "SS_CreateAfk",
