@@ -3,6 +3,13 @@
         
         {
             "discord": "#8145-1",
+            "ss_name": "SS_dropplayer",
+            "id":"171.100.91.61",
+            "ver":"1.0.0"
+        },
+
+        {
+            "discord": "#8145-1",
             "ss_name": "SS_Deposveh",
             "id":"103.22.182.58",
             "ver":"1.0.0"
