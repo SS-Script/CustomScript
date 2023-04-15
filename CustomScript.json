@@ -2,9 +2,28 @@
     "ip":[
         
         {
-            "discord": "#8145-1",
+            "discord": "SS-DEV",
+            "ss_name": "SS_Custom.drop",
+            "id":"171.100.91.61",
+            "ver":"1.0.0"
+        },
+        {
+            "discord": "#4027",
+            "ss_name": "SS_Custom.drop",
+            "id":"103.131.200.67",
+            "ver":"1.0.0"
+        },
+
+        {
+            "discord": "SS-DEV",
             "ss_name": "SS_drop.Custom",
             "id":"171.100.91.61",
+            "ver":"1.0.0"
+        },
+        {
+            "discord": "#7393",
+            "ss_name": "SS_drop.Custom",
+            "id":"191.96.93.45",
             "ver":"1.0.0"
         },
 
