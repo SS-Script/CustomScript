@@ -14,6 +14,8 @@
             "ver":"1.0.0"
         },
 
+
+
         {
             "discord": "SS-DEV",
             "ss_name": "SS_drop.Custom",
@@ -26,6 +28,8 @@
             "id":"191.96.93.45",
             "ver":"1.0.0"
         },
+
+
 
         {
             "discord": "#8145-1",
@@ -46,6 +50,8 @@
             "ver":"1.0.0"
         },
         
+
+
         
         {
             "discord": "SS-DEV",
@@ -59,12 +65,17 @@
             "id":"191.96.93.204",
             "ver":"2.0.0"
         },
+
+
+
         {
             "discord": "Adam S. Lavish#7393",
             "ss_name": "SS_Giveforitem",
             "id":"191.96.93.45",
             "ver":"1.0.0"
         },
+
+        
         {
             "ss_name": "SS_Giveforitem",
             "id":"119.76.46.199",
