@@ -3,6 +3,19 @@
         
         {
             "discord": "SS-DEV",
+            "ss_name": "SS_Heal-Armour",
+            "id":"171.100.91.126",
+            "ver":"1.0.0"
+        },
+        {
+            "discord": "#3420",
+            "ss_name": "SS_Heal-Armour",
+            "id":"191.96.93.106",
+            "ver":"1.0.0"
+        },
+
+        {
+            "discord": "SS-DEV",
             "ss_name": "SS_Custom.drop",
             "id":"171.100.91.61",
             "ver":"1.0.0"
