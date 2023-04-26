@@ -3,6 +3,13 @@
         
         {
             "discord": "SS-DEV",
+            "ss_name": "MRB_Armor",
+            "id":"171.100.91.67",
+            "ver":"1.0.0"
+        },
+
+        {
+            "discord": "SS-DEV",
             "ss_name": "SS_Heal-Armour",
             "id":"171.100.91.126",
             "ver":"1.0.0"
