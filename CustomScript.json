@@ -4,8 +4,12 @@
         {
             "discord": "SS-DEV",
             "ss_name": "MRB_Armor",
-            "id":"171.100.91.67",
-            "version":"1.0.0"
+            "id":"171.100.91.67"
+        },
+        {
+            "discord": "#0613",
+            "ss_name": "MRB_Armor",
+            "id":"191.96.92.26"
         },
 
         {
