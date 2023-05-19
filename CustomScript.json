@@ -3,6 +3,13 @@
         
         {
             "discord": "SS-DEV",
+            "ss_name": "SS_Givereward",
+            "id":"110.169.141.233"
+        },
+
+
+        {
+            "discord": "SS-DEV",
             "ss_name": "MRB_Armor",
             "id":"171.100.91.67"
         },
