@@ -4,19 +4,22 @@
         {
             "discord": "SS-DEV",
             "ss_name": "SS_Givereward",
-            "id":"110.169.141.233"
+            "id":"110.169.141.233",
+            "ver":"1.0.0"
         },
 
 
         {
             "discord": "SS-DEV",
             "ss_name": "MRB_Armor",
-            "id":"171.100.91.67"
+            "id":"171.100.91.67",
+            "ver":"1.0.0"
         },
         {
             "discord": "#0613",
             "ss_name": "MRB_Armor",
-            "id":"191.96.92.26"
+            "id":"191.96.92.26",
+            "ver":"1.0.0"
         },
 
         {
