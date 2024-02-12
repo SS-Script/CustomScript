@@ -23,6 +23,12 @@
         },
 
         {
+            "discord": "cocohalf",
+            "ss_name": "SS_Heal-Armour",
+            "id":"141.98.19.148",
+            "ver":"1.0.0"
+        },
+        {
             "discord": "SS-DEV",
             "ss_name": "SS_Heal-Armour",
             "id":"171.100.91.126",
